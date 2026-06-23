@@ -4,7 +4,7 @@ Author: Teng Zhang <zhangtchem@stu.pku.edu.cn>
 This code is modified from:
 
 QC-DMET: A Python implementation of density matrix embedding theory for
-ab initio quantum chemistry.
+ab initio quantum chemistry. (https://github.com/sebwouters/qc-dmet)
 
 Copyright (C) 2015 Sebastian Wouters
 '''
